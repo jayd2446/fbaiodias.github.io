@@ -8,6 +8,8 @@ git merge source
 
 harp compile _harp ./
 
+rm -rf _harp
+
 git add --all
 
 git commit -m "Compile harp"
