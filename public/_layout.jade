@@ -1,0 +1,15 @@
+doctype
+html(lang="en")
+  head
+    != partial("_shared/head")
+  body
+    //- If it’s an index or in the root, show it.
+    if current.source === 'index' || current.path.length < 2
+      != partial("_shared/header")
+      != yield
+    else
+      //- Otherwise, use Harp’s partial() function to wrap it in that directory’s _nest.jade
+      != partial((current.path[current.path.length - 2] || '') + "/_nest")
+    != partial("_shared/footer")
+
+  != partial("_shared/analytics")

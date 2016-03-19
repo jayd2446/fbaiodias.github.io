@@ -1,0 +1,1 @@
+Later I moved to London, and started working for YLD as Node.js Consultant, helping big companies switch to modern technologies like node, react and redux, which felt great because suddenly I have thousands of users using products I helped building.
