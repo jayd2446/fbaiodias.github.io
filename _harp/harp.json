@@ -1,6 +1,8 @@
 {
   "globals": {
     "title": "Francisco Baio Dias",
+    "description": "Hey! I'm a full-stack developer from the sunny city of Lisbon, Portugal. I love coding Javascript, mainly Node.js and React and open-source.",
+    "mainImage": "http://franciscodias.net/images/francisco.jpg",
     "uri": "franciscodias.net",
     "analytics": "UA-22227995-7"
   }
