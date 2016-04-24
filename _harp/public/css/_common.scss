@@ -203,3 +203,16 @@ header.header {
     width: 70%;
   }
 }
+
+.typeform {
+  background-image: url("/images/typeform-background.jpg");
+  background-position-y: 30%;
+
+  .opacity {
+    background-color: rgba(50, 50, 0, 0.7);
+  }
+
+  .media img {
+    width: 70%;
+  }
+}
