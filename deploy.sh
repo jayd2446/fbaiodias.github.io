@@ -6,7 +6,7 @@ git reset --hard HEAD~1
 
 git merge source
 
-harp compile _harp ./
+./node_modules/.bin/harp compile _harp ./
 
 rm -rf _harp
 
