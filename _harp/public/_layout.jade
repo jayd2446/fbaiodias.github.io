@@ -10,6 +10,8 @@ html(lang="en")
     else
       //- Otherwise, use Harp’s partial() function to wrap it in that directory’s _nest.jade
       != partial((current.path[current.path.length - 2] || '') + "/_nest")
-    != partial("_shared/footer")
+
+    if current.source !== 'index'
+      != partial("_shared/footer")
 
   != partial("_shared/analytics")

@@ -85,28 +85,7 @@ header.header {
   text-align: center;
   font-size: 20px;
   padding: 32px;
-
-  .social-buttons {
-    font-size: 64px;
-    margin: 0px
-  }
-
-  a {
-    color: white;
-    margin: 0 10px;
-    opacity: 0.9;
-    display: inline-block;
-
-    &:active,
-    &:hover,
-    &:focus {
-      color: white;
-    }
-
-    &:hover {
-      opacity: 0.8;
-    }
-  }
+  background-image: url("/images/footer-background.jpg");
 }
 
 .opacity {
@@ -116,6 +95,12 @@ header.header {
 .not-found {
   text-align: center;
   padding: 60px 0;
+}
+
+.home {
+  height: 100vh;
+  text-align: center;
+  overflow-y: auto;
 }
 
 .intro {
@@ -214,5 +199,27 @@ header.header {
 
   .media img {
     width: 70%;
+  }
+}
+
+.social-buttons {
+  font-size: 64px;
+  margin: 0px;
+
+  a {
+    color: white;
+    margin: 0 10px;
+    opacity: 0.9;
+    display: inline-block;
+
+    &:active,
+    &:hover,
+    &:focus {
+      color: white;
+    }
+
+    &:hover {
+      opacity: 0.8;
+    }
   }
 }

@@ -5,20 +5,6 @@ footer.footer(role="contentinfo")
     p I would love to hear from you. If you want, contact me using one of the following options:
 
     .contacts
-      div
-        span.fa.fa-envelope
-        a(href='mailto:francisco@baiodias.com' itemprop='email') francisco@baiodias.com
+      a(href='mailto:francisco@baiodias.com' itemprop='email') francisco@baiodias.com
 
-  p.social-buttons
-    a(target='_blank' href='//github.com/xicombd')
-      i.fa.fa-github
-    a(target='_blank' href='//twitter.com/xicombd')
-      i.fa.fa-twitter
-    a(target='_blank' href='//linkedin.com/in/xicombd')
-      i.fa.fa-linkedin
-    a(target='_blank' href='//fb.com/xicombd')
-      i.fa.fa-facebook-square
-    a(target='_blank' href='//youtube.com/xicombd')
-      i.fa.fa-youtube
-    a(target='_blank' href='//instagram.com/xicombd')
-      i.fa.fa-instagram
+  != partial("social-buttons")
