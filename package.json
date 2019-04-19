@@ -6,7 +6,7 @@
   "author": "Francisco Baio Dias <francisco@typeform.com>",
   "license": "MIT",
   "dependencies": {
-    "harp": "^0.23.0"
+    "harp": "^0.30.0"
   },
   "scripts": {
     "start": "harp server _harp",
