@@ -1,3 +1,0 @@
-Being a volunteer at [LXJS](http://yearbook.lxjs.org/) [2013](http://2013.lxjs.org/) let me discover two things: that I really wanted to learn more node and javascript, and that being involved in a conference felt great.
-
-So I joined [SINFO](https://sinfo.org), one of the biggest student organized confs in the world, where we started using node to solve some of the problems we had. For example, we created [EventDeck](https://github.com/sinfo/eventdeck) that optimized a lot our speakers and sponsor contact process and let us put together the [biggest](http://pplware.sapo.pt/informacao/sinfo-elenco-luxuoso-no-maior-evento-de-tecnologia/) [event](http://shifter.pt/2015/02/pirate-bay-reddit-counter-strike-github-e-twitter-na-22a-sinfo/) of the previous 21 editions.

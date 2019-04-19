@@ -1,3 +1,0 @@
-I have been into technology since a very young age, as I used to spend a lot of time [building](https://www.youtube.com/playlist?list=PLuSRfzavfl0mCon852oXysJRUlBNEiVG9) [robots](http://letsmakerobots.com/user/7854/pages/robot) during high school.
-
-The amazing people from [Artica](http://artica.cc/) and [IDMind](http://www.idmind.pt/) found me and gave me the awesome opportunity of working with them on their robot [Magabot](https://www.youtube.com/watch?v=9woeUYcWE0s). They were great mentors and provided me resources to work on all sorts of crazy projects, like the time we [hacked a Sega Rally arcade to control real RC cars](http://techcrunch.com/2012/11/26/sega-rally-arcade-machine-mashed-up-with-remote-control-cars-for-real-racing-robotics/).

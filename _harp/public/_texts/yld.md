@@ -1,1 +1,0 @@
-I spent the end of 2015 in London working for YLD as a Consultant, working alongside awesome people and [helping big companies switch from old school stacks to modern technologies like node, react and redux](https://www.youtube.com/watch?v=xfUZRk8Mcxk).
